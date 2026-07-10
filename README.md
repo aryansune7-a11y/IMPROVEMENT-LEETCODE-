@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0143-reorder-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
