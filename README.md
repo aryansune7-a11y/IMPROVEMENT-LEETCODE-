@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
