@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0143-reorder-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
