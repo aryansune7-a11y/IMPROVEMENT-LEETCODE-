@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
