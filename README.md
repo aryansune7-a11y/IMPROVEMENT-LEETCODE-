@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Backtracking
