@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0077-combinations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
