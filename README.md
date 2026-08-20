@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0143-reorder-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2029-stone-game-ix) |
