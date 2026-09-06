@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2213-longest-substring-of-one-repeating-character) |
