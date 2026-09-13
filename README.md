@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1288-remove-covered-intervals) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
