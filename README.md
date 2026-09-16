@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0077-combinations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
