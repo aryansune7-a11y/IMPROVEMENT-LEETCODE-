@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0836-rectangle-overlap) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3498-reverse-degree-of-a-string) |
