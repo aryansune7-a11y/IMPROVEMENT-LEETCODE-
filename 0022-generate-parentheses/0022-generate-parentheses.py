@@ -1,10 +1,8 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
-
+    def generateParenthesis(self, n: int) -> list[str]:
         ans = []
 
         def backtrack(s, open, close):
-           
             if len(s) == 2 * n:
                 ans.append(s)
                 return
@@ -12,7 +10,6 @@ class Solution:
             if open < n:
                 backtrack(s + "(", open + 1, close)
 
-        
             if close < open:
                 backtrack(s + ")", open, close + 1)
 
