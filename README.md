@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3348-smallest-divisible-digit-product-ii) |
