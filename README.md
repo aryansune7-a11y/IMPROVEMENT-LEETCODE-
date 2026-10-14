@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
