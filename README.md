@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/3310-remove-methods-from-project) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
