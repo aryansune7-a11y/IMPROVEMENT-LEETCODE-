@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0301-remove-invalid-parentheses) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansune7-a11y/IMPROVEMENT-LEETCODE-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
