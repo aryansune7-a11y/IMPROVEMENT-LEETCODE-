@@ -9,5 +9,4 @@ class Solution:
         for i in range(len(nums)):
             count += abs(nums[i] - m)
 
-            # ans += 1
         return count
